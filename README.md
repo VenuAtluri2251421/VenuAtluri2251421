@@ -31,3 +31,27 @@ Hi there 👋, I'm Venu!
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/venuatluri?share_id=XmCR4L0ViqI&locale=en-IN)  
 
 📧 Email: venuatluri2005@gmail.com
+
+⚙️ <b>Languages and Tools:</b>
+<br>
+<br>
+<a href="https://www.python.org/" target='_blank'><img bottom=30px width=40px align=left src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
+<a href="https://www.oracle.com/java/" target='_blank'><img bottom=30px width=40px align=left src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></a>
+<a href="https://gcc.gnu.org/" target='_blank'><img bottom=30px width=40px align=left src="https://upload.wikimedia.org/wikipedia/commons/1/18/GNU_project_logo.svg"></a>
+<a href="https://code.visualstudio.com/" target='_blank'><img top=20px height=50px align=left src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
+<a href="https://www.raspberrypi.org/" target='_blank'><img bottom=30px width=40px align=left src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg"></a>
+<a href="https://www.arduino.cc/" target='_blank'><img bottom=30px width=40px align=left src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></a>
+<a href="https://www.gnu.org/software/bash/" target='_blank'><img bottom=30px width=40px align=left src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg"></a>
+<a href="https://git-scm.com/" target='_blank'><img bottom=30px width=50px align=left src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></a>
+
+<br>
+<br>
+<b>### Profile overview: 👁️👁️</b>
+<br>
+<br>
+
+<br>
+<br>
+<img width=450px margin-right=300px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=algolia">
+<img align=center src="https://komarev.com/ghpvc/?username=your-username&color=ff5656&style=flat-square">
+
