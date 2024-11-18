@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 Here’s a tailored and concise introduction for you:
 
 Hi there 👋, I'm Venu!
-🤖 Robotics student passionate about AI, drones, and automation.
-💻 Skilled in Python, C, and Java; currently exploring autonomous drones.
-🔧 Working on projects with Raspberry Pi and Arduino.
-🚀 Open to collaborations in AI, robotics, and drone technology.
-🌱 Currently learning advanced drone systems.
+
+- 🤖 Robotics student passionate about AI, drones, and automation.
+- 💻 Skilled in Python, C, and Java; currently exploring autonomous drones.
+- 🔧 Working on projects with Raspberry Pi and Arduino.
+- 🚀 Open to collaborations in AI, robotics, and drone technology.
+- 🌱 Currently learning advanced drone systems.
 📫 Let's connect:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_s_n_12610/)  
