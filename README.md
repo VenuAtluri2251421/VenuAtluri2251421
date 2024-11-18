@@ -24,20 +24,20 @@
   <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40px" alt="Java" style="margin-right: 10px;">
   </a>
-  <a href="https://gcc.gnu.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GNU_project_logo.svg" width="40px" alt="C" style="margin-right: 10px;">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40px" alt="C" style="margin-right: 10px;">
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40px" alt="VS Code" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40px" alt="PyCharm" style="margin-right: 10px;">
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40px" alt="Raspberry Pi" style="margin-right: 10px;">
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40px" alt="Arduino" style="margin-right: 10px;">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40px" alt="Git" style="margin-right: 10px;">
   </a>
 </p>
 
