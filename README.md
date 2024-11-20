@@ -2,7 +2,7 @@
 
 - 🤖 **Robotics student** passionate about AI, drones, and automation.  
 - 💻 Skilled in **Python**, **C**, and **Java**, currently exploring autonomous drones.  
-- 🔧 Working on projects with **Raspberry Pi** and **Arduino**.  
+- 🔧 Working on projects with **Raspberry Pi**, **Arduino** and **Chatbots**.  
 - 🚀 Open to collaborations in **AI**, **robotics**, and **drone technology**.  
 - 🌱 Currently learning advanced drone systems.  
 
